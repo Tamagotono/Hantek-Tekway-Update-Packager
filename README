@@ -1,0 +1,12 @@
+This is a script that is heavily modified from one posted by "siblynx" on github
+https://github.com/siblynx/dso5102p_better_dumper/upload/master
+
+use the template folder to make the scripts to run on the scope and then run this script to package it all up into an ".up" update file.
+You can edit the static variables in the head of the file to customize the filename.
+
+
+
+TODO:
+Add commandline options to override the static variables.
+???
+profit
