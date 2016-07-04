@@ -1,0 +1,8 @@
+[DST type]dst1000b
+[soft version]3.2.35(161230.0)
+[type]123
+[cmd] chmod 777 /tmp/tekwayup_client/do_update.sh
+[cmd] sh /tmp/tekwayup_client/do_update.sh
+[cmd] sync
+[cmd] sync
+[end]
